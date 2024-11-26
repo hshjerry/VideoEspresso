@@ -1,3 +1,6 @@
+<p align="center" width="100%">
+<img src="https://i.postimg.cc/pL17YtG4/WX20240508-220230-2x.png"  width="80%" height="80%">
+</p>
 # VideoEspresso
 Our code and dataset will be release soon.
 ## News:
