@@ -1,4 +1,5 @@
 # VideoEspresso
+\[[Paper](https://arxiv.org/abs/2411.14794)]
 Our code and dataset will be released soon.
 
 <p align="center" width="100%">
