@@ -8,3 +8,14 @@ Our code and dataset will be released soon.
 
 ## News:
 [2024/12/07] 🔥 The test set will be released before this date!
+
+
+## Citation:
+```
+@article{han2024videoespresso,
+  title={VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection},
+  author={Han, Songhao and Huang, Wei and Shi, Hairong and Zhuo, Le and Su, Xiu and Zhang, Shifeng and Zhou, Xu and Qi, Xiaojuan and Liao, Yue and Liu, Si},
+  journal={arXiv preprint arXiv:2411.14794},
+  year={2024}
+}
+```
