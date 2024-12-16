@@ -7,7 +7,7 @@ Our code and dataset will be released soon.
 </p>
 
 ## News:
-[2024/12/16] 🔥 The test set has been released!
+[2024/12/16] 🔥 The test set has been released![[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)]
 
 
 ## Citation:
