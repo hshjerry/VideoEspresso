@@ -7,7 +7,7 @@ Our code and dataset will be released soon.
 </p>
 
 ## News:
-[2024/12/07] 🔥 The test set will be released before this date!
+[2024/12/16] 🔥 The test set has been released!
 
 
 ## Citation:
