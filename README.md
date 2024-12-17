@@ -11,14 +11,15 @@ We are excited to announce that our **leaderboard** will be released shortly.
 
 We look forward to your participation and contributions! 🌟
 
-<p align="center" width="80%">
-<img src="https://i.postimg.cc/LXzVcgFP/Wechat-IMG197.jpg"  width="100%" height="100%">
-</p>
-
 ## News:
 [2024/12/16] 🔥 The test set has been released! [[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)]
 
 [2024/12/17] 🔥 The close-ended script has been updated!
+
+## Overall View:
+<p align="center" width="80%">
+<img src="https://i.postimg.cc/LXzVcgFP/Wechat-IMG197.jpg"  width="100%" height="100%">
+</p>
 
 **Contact Us** 📧  
 If you have any questions or want to submit your checkpoints, feel free to reach out to us via email:  
