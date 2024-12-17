@@ -1,6 +1,13 @@
 # VideoEspresso
-\[[Paper](https://arxiv.org/abs/2411.14794)]
-Our code and dataset will be released soon.
+\[[Paper](https://arxiv.org/abs/2411.14794)] [[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)]
+**Announcement: Leaderboard Coming Soon!** 🚀  
+We are excited to announce that our **leaderboard** will be released shortly.  
+
+### How You Can Participate:
+- **Use our benchmark**: Feel free to test your models using our benchmark and share your results.  
+- **Submit checkpoints**: Alternatively, you can provide your model checkpoints, and we will evaluate them and update the leaderboard for you.  
+
+We look forward to your participation and contributions! 🌟
 
 <p align="center" width="80%">
 <img src="https://i.postimg.cc/LXzVcgFP/Wechat-IMG197.jpg"  width="100%" height="100%">
