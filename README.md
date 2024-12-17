@@ -12,9 +12,8 @@ We are excited to announce that our **leaderboard** will be released shortly.
 We look forward to your participation and contributions! 🌟
 
 ## News:
-[2024/12/16] 🔥 The test set has been released! [[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)]
-
-[2024/12/17] 🔥 The close-ended script has been updated! [[Close-Ended Evaluation](https://github.com/hshjerry/VideoEspresso/tree/main/eval)]
+[2024/12/17] 🔥 The close-ended benchmark has been updated! [[Close-Ended Evaluation](https://github.com/hshjerry/VideoEspresso/tree/main/eval)]
+[2024/12/16] 🔥 The test set has been released! Please check our huggingface repo[[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)]
 
 ## Overall View:
 <p align="center" width="80%">
