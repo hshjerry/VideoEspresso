@@ -2,13 +2,13 @@
 \[[Paper](https://arxiv.org/abs/2411.14794)]
 Our code and dataset will be released soon.
 
-<p align="center" width="100%">
+<p align="center" width="80%">
 <img src="https://i.postimg.cc/LXzVcgFP/Wechat-IMG197.jpg"  width="100%" height="100%">
 </p>
 
 ## News:
-[2024/12/16] 🔥 The test set has been released![[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)]
-
+[2024/12/16] 🔥 The test set has been released! [[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)]
+[2024/12/17] 🔥 The close-ended script has been updated!
 
 ## Citation:
 ```
