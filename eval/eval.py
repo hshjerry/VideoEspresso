@@ -9,6 +9,7 @@ from decord import VideoReader, cpu
 import torch
 import numpy as np
 import argparse
+
 # fix seed
 torch.manual_seed(0)
 
