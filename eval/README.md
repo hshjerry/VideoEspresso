@@ -46,7 +46,7 @@ The primary purpose of this script is to:
 You need to specify key parameters such as the model path and JSON file path when running the script. Here's an example command:
 
 ```bash
-python close_ended -mp /path/to/your_model -sn /path/to/save.json -we True -jp /path/to/bench_final.json
+python close_ended.py -mp /path/to/your_model -sn /path/to/save.json -we True -jp /path/to/bench_final.json
 ```
 
 ### Parameter Details
