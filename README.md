@@ -1,7 +1,7 @@
 # VideoEspresso
 \[[Paper](https://arxiv.org/abs/2411.14794)] [[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)]
 
-**Announcement: Leaderboard Coming Soon!** 🚀  
+<span style="color:red;">**Announcement: Leaderboard Coming Soon!** 🚀</span>
 We are excited to announce that our **leaderboard** will be released shortly.  
 
 ### How You Can Participate:
