@@ -75,7 +75,7 @@ The input JSON file should contain data in the following format:
             "(C): Option 3",
             "(D): Option 4"
         ],
-        "correct_answer": "A",
+        "correct_answer": "(A)",
         "evidence": "Some evidence information",
         "task": "Description of the task"
     }
@@ -107,10 +107,10 @@ The script saves the results to the file specified by `--save_path`. The output 
             "(C): Option 3",
             "(D): Option 4"
         ],
-        "correct_answer": "A",
+        "correct_answer": "(A)",
         "evidence": "Some evidence information",
         "task": "Description of the task",
-        "model_output": "A"
+        "model_output": "(A)"
     }
 ]
 ```
