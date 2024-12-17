@@ -235,4 +235,4 @@ Here’s a general workflow for adapting this script to your own model:
 
 ---
 
-By following this guide, you can adapt the script to work with your own model and perform video-based inference seamlessly!
+By following this guide, you can adapt the script to work with your own model and perform Close-Ended Evaluation seamlessly!
