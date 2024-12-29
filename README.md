@@ -3,7 +3,7 @@
 
 **Announcement: Leaderboard Coming Soon!** 🚀
 
-We are excited to announce that our **leaderboard** will be released shortly.  
+We are excited to announce that our **leaderboard** will be updated and filled shortly.  
 
 ## Leaderboard
 | Model               | Params | Frames | Overall | Narrative Analysis | Event Dynamic | Preparation Steps | Causal Analysis | Theme Analysis | Contextual Analysis | Influence Analysis | Role Analysis | Interaction Analysis | Behavior Analysis | Emotion Analysis | Cooking Process | Traffic Analysis | Situation Analysis |
