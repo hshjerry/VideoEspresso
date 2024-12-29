@@ -5,6 +5,17 @@
 
 We are excited to announce that our **leaderboard** will be released shortly.  
 
+## Leaderboard
+| Model               | Params | Frames | Overall | Narrative Analysis | Event Dynamic Analysis | Preparation Steps / Ingredient Analysis | Causal Analysis | Theme Analysis | Contextual Analysis | Influence Analysis | Role Analysis | Interaction Analysis | Behavior Analysis | Emotion Analysis | Cooking Process | Traffic Analysis | Situation Analysis |
+|----------------------|--------|--------|---------|---------------------|------------------------|------------------------------------------|-----------------|----------------|---------------------|--------------------|---------------|----------------------|------------------|------------------|----------------|------------------|--------------------|
+| **LLaVA-Video**     | 72B    | 64     | **66.3%** | 68.4%              | **66.2%**             | **74.5%**                               | **62.7%**       | 62.3%         | **71.6%**           | 62.5%             | **63.5%**     | **67.7%**            | **63.2%**        | 60.0%           | 75.5%         | **76.7%**        | **74.0%**          |
+| **LLaVA-OneVision** | 72B    | 64     | 63.2%  | **76.0%**          | 61.8%                 | 71.4%                                   | 57.5%          | 62.3%         | 68.8%              | 62.5%             | 55.6%        | 58.1%               | 56.1%           | **63.1%**       | **77.4%**     | 70.0%           | 74.0%             |
+| **InternVL2.5**     | 38B    | 16     | 59.9%  | 65.8%              | 54.1%                 | 66.3%                                   | 57.3%          | 55.7%         | 63.3%              | 56.9%             | 54.0%        | 53.2%               | 63.2%           | 60.0%           | 73.6%         | 70.0%           | 72.0%             |
+| **Gemini-1.5-pro**  | -      | 128    | 44.2%  | 55.7%              | 42.0%                 | 50.0%                                   | 41.3%          | 34.4%         | 53.2%              | 29.2%             | 39.7%        | 40.3%               | 38.6%           | 47.7%           | 58.5%         | 50.0%           | 54.0%             |
+| **Qwen-Max**        | -      | 4      | 42.7%  | 44.3%              | 35.7%                 | 45.9%                                   | 39.7%          | 44.3%         | 54.1%              | 43.1%             | 47.6%        | 35.5%               | 45.6%           | 41.5%           | 49.1%         | 46.7%           | 46.0%             |
+| **Gemini-1.5-flash**| -      | 128    | 39.8%  | 59.5%              | 45.2%                 | 38.8%                                   | 34.7%          | 32.8%         | 45.9%              | 30.6%             | 42.9%        | 43.6%               | 33.3%           | 38.5%           | 41.5%         | 36.7%           | 46.0%             |
+| **LongVA**          | 7B     | 128    | 39.7%  | 40.5%              | 33.8%                 | 43.9%                                   | 35.9%          | **42.6%**     | 42.2%              | **51.4%**         | 47.6%        | 40.3%               | 35.1%           | 32.3%           | 39.6%         | 56.7%           | 48.0%             |
+
 ### How You Can Participate:
 - **Use our benchmark**: Feel free to test your models using our benchmark and share your results.  
 - **Submit checkpoints**: Alternatively, you can provide your model checkpoints, and we will evaluate them and update the leaderboard for you.
