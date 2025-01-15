@@ -1,10 +1,6 @@
 # VideoEspresso
 \[[Paper](https://arxiv.org/abs/2411.14794)] [[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)]
 
-**Announcement: Leaderboard Coming Soon!** 🚀
-
-We are excited to announce that our **leaderboard** will be updated and filled shortly.  
-
 ## Leaderboard
 
 | Model                | Params | Frames | Overall | Narrative Analysis | Event Dynamic | Preparation Steps | Causal Analysis | Theme Analysis | Contextual Analysis | Influence Analysis | Role Analysis | Interaction Analysis | Behavior Analysis | Emotion Analysis | Cooking Process | Traffic Analysis | Situation Analysis |
@@ -31,7 +27,7 @@ We are excited to announce that our **leaderboard** will be updated and filled s
 We look forward to your participation and contributions! 🌟
 
 ## News:
-[2024/12/29] 🔥 The close-ended Leaderboard has been updated!
+[2024/1/16] 🔥 The close-ended Leaderboard has been updated!
 
 [2024/12/17] 🔥 The close-ended benchmark has been updated! [[Close-Ended Evaluation](https://github.com/hshjerry/VideoEspresso/tree/main/eval)]
 
