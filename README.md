@@ -28,6 +28,8 @@
 We look forward to your participation and contributions! 🌟
 
 ## News:
+[2025/3/24] 🔥 The training set (multi-image version) has been updated! [[Train Set (multi-image)](https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_multi_image)]
+
 [2025/2/27] 🔥 This paper has been accepted by CVPR'25!
 
 [2025/1/16] 🔥 The close-ended Leaderboard has been updated!
