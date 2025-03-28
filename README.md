@@ -1,5 +1,5 @@
 # VideoEspresso
-\[[Paper](https://arxiv.org/abs/2411.14794)] [[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)]
+\[[Paper](https://arxiv.org/abs/2411.14794)] [[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)] [[Train Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_video)]
 
 ## Leaderboard
 
@@ -28,6 +28,9 @@
 We look forward to your participation and contributions! 🌟
 
 ## News:
+
+[2025/3/24] 🔥 The training set (video version) has been updated! [[Train Set (video)](https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_video)]
+
 [2025/3/24] 🔥 The training set (multi-image version) has been updated! [[Train Set (multi-image)](https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_multi_image)]
 
 [2025/2/27] 🔥 This paper has been accepted by CVPR'25!
