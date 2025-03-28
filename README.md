@@ -29,7 +29,7 @@ We look forward to your participation and contributions! 🌟
 
 ## News:
 
-[2025/3/24] 🔥 The training set (video version) has been updated! [[Train Set (video)](https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_video)]
+[2025/3/29] 🔥 The training set (video version) has been updated! [[Train Set (video)](https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_video)]
 
 [2025/3/24] 🔥 The training set (multi-image version) has been updated! [[Train Set (multi-image)](https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_multi_image)]
 
