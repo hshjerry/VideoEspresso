@@ -1,6 +1,22 @@
 # VideoEspresso
 \[[Paper](https://arxiv.org/abs/2411.14794)] [[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)] [[Train Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_video)]
 
+## News:
+
+[2025/4/4] 🔥 This paper was accepted as an oral presentation at CVPR'25.
+
+[2025/3/29] 🔥 The training set (video version) has been updated! [[Train Set (video)](https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_video)]
+
+[2025/3/24] 🔥 The training set (multi-image version) has been updated! [[Train Set (multi-image)](https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_multi_image)]
+
+[2025/2/27] 🔥 This paper has been accepted by CVPR'25!
+
+[2025/1/16] 🔥 The close-ended Leaderboard has been updated!
+
+[2024/12/17] 🔥 The close-ended benchmark has been updated! [[Close-Ended Evaluation](https://github.com/hshjerry/VideoEspresso/tree/main/eval)]
+
+[2024/12/16] 🔥 The test set has been released! Please check our huggingface repo. [[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)]
+
 ## Leaderboard
 
 | Model                | Params | Frames | Overall | Narrative Analysis | Event Dynamic | Preparation Steps | Causal Analysis | Theme Analysis | Contextual Analysis | Influence Analysis | Role Analysis | Interaction Analysis | Behavior Analysis | Emotion Analysis | Cooking Process | Traffic Analysis | Situation Analysis |
@@ -27,19 +43,6 @@
 
 We look forward to your participation and contributions! 🌟
 
-## News:
-
-[2025/3/29] 🔥 The training set (video version) has been updated! [[Train Set (video)](https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_video)]
-
-[2025/3/24] 🔥 The training set (multi-image version) has been updated! [[Train Set (multi-image)](https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_multi_image)]
-
-[2025/2/27] 🔥 This paper has been accepted by CVPR'25!
-
-[2025/1/16] 🔥 The close-ended Leaderboard has been updated!
-
-[2024/12/17] 🔥 The close-ended benchmark has been updated! [[Close-Ended Evaluation](https://github.com/hshjerry/VideoEspresso/tree/main/eval)]
-
-[2024/12/16] 🔥 The test set has been released! Please check our huggingface repo. [[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)]
 
 ## Overall View:
 <p align="center" width="80%">
