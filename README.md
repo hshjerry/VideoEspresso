@@ -3,7 +3,7 @@
 
 ## News:
 
-[2025/4/4] 🔥 This paper was accepted as an oral presentation at CVPR'25.
+[2025/4/4] 🔥 This paper was accepted as an **oral** presentation at CVPR'25!
 
 [2025/3/29] 🔥 The training set (video version) has been updated! [[Train Set (video)](https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_video)]
 
