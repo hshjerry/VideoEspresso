@@ -2,7 +2,7 @@
 \[[Paper](https://arxiv.org/abs/2411.14794)] [[Test Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso-Test)] [[Train Set](https://huggingface.co/datasets/hshjerry0315/VideoEspresso_train_video)]
 
 ## News:
-[2025/4/12] 🔥 We fixed the video version training annotation!
+[2025/4/12] 🔥 We fixed the video version training annotation.
 
 [2025/4/4] 🔥 This paper was accepted as an **oral** presentation at CVPR'25!
 
