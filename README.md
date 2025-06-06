@@ -58,10 +58,12 @@ If you have any questions or want to submit your checkpoints, feel free to reach
 
 ## Citation:
 ```
-@article{han2024videoespresso,
-  title={VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection},
-  author={Han, Songhao and Huang, Wei and Shi, Hairong and Zhuo, Le and Su, Xiu and Zhang, Shifeng and Zhou, Xu and Qi, Xiaojuan and Liao, Yue and Liu, Si},
-  journal={arXiv preprint arXiv:2411.14794},
-  year={2024}
+@InProceedings{Han_2025_CVPR,
+    author    = {Han, Songhao and Huang, Wei and Shi, Hairong and Zhuo, Le and Su, Xiu and Zhang, Shifeng and Zhou, Xu and Qi, Xiaojuan and Liao, Yue and Liu, Si},
+    title     = {VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {26181-26191}
 }
 ```
