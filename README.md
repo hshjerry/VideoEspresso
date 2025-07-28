@@ -67,3 +67,6 @@ If you have any questions or want to submit your checkpoints, feel free to reach
     pages     = {26181-26191}
 }
 ```
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hshjerry/VideoEspresso&type=Date)](https://www.star-history.com/#hshjerry/VideoEspresso&Date)
